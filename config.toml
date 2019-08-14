@@ -1,5 +1,5 @@
 baseURL = "https://tutorial-demo.netlify.com/"
-languageCode = "en-us"
+languageCode = "en-uk"
 defaultContentLanguage = "en"
 title = "Demo Title"
 theme = "hermit"
